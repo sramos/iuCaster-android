@@ -1,0 +1,39 @@
+Installation Instructions
+*************************
+
+Copyright (C) 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2004, 2005,
+2006, 2007, 2008 Free Software Foundation, Inc.
+
+   This file is free documentation; the Free Software Foundation gives
+unlimited permission to copy, distribute and modify it.
+
+
+--------------------------------------------
+|  MANUAL DE INSTALACIÓN DE iuCaster-android v0.2  |
+--------------------------------------------
+
+La instalación descrita fue efectuada sobre Debian 6.0 (Squeeze). Es posible realizar los mismos
+pasos en cualquier otro sistema operativo, aunque algunos de ellos es posible que sean distintos.
+
+
+Convenciones
+
+Una linea que empieza por "$" indica el prompt bash en consola.
+
+
+*********************************************************************************************
+
+Indice
+1.- Instalación de dependencias
+2.- Instalación de iuCaster-android 
+
+*********************************************************************************************
+
+1.- Instalación de dependencias
+
+  $ apt-get install ... 
+
+
+2.- Instalación de iuCaster-android
+
+
